@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../Sender/Sender.csproj" />
   <Project Path="Encryption_Library.csproj" />
+  <Project Path="Receiver/Receiver.csproj" />
 </Solution>
